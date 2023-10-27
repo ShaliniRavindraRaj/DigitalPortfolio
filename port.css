@@ -1,0 +1,67 @@
+/* styles.css */
+
+body {
+    font-family: sans-serif;
+    margin: 10;
+    padding: 10;
+    background-color: #f1f5f0;
+}
+
+header {
+    background-color: #37373d;
+    color: white;
+    padding: 1em 0;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+}
+
+nav li {
+    display: inline;
+    margin-right: 20px;
+}
+
+.container {
+    max-width: 500px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: white;
+}
+
+#about {
+    background-color: white;
+}
+
+#education{
+    background-color: white;
+}
+
+#projects {
+    background-color: white;
+}
+
+#skills{
+    background-color: white;
+}
+
+#contact{
+    background-color: white;
+}
+
+.project {
+    margin: 20px 0;
+}
+
+footer {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 10px ;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
